@@ -1,0 +1,29 @@
+.atas {
+  background-color: rgb(218, 218, 218);
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+}
+body {
+  background-color: rgb(255, 255, 255);
+}
+.foto input {
+  border-radius: 20px;
+}
+.foto ::placeholder {
+  text-align: center;
+}
+footer {
+  background-color: rgb(218, 218, 218);
+  padding: 20px;
+}
+.bawah {
+  text-align: center;
+  font-size: 18px;
+  font-style: initial;
+}
+.ahayy {
+  text-align: left;
+}
+div {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
